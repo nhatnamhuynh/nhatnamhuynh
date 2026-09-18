@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 I am a first-year undergraduate student at Vietnam National University - Ho Chi Minh City University of Technology, majoring in Computer Engineering.
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=nhatnamhuynh)](https://github.com/stats-organization/github-stats-extended)
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=nhatnamhuynh&repo=nhatnamhuynh%2Fobstacle-detection-and-distance-measurement&description_lines_count=3&theme=prussian)](https://github.com/nhatnamhuynh/obstacle-detection-and-distance-measurement)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=nhatnamhuynh&repo=pmhuy2302%2Frisc-cpu-16-bit&description_lines_count=3&theme=vue-dark)](https://github.com/pmhuy2302/risc-cpu-16-bit)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=nhatnamhuynh&repo=nhatnamhuynh%2Fsystolic-array-2x2&description_lines_count=3&theme=tokyonight)](https://github.com/nhatnamhuynh/systolic-array-2x2)
