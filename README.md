@@ -1,8 +1,8 @@
 # Huynh Nhat Nam
 
-Computer Engineering Undergraduate @ HCMUT (Class of 2029)
+Computer Engineering Undergraduate @ HCMUT | Class of 2029
 
-Focus on **RTL Design & Verification**, **RISC-V Architectures**, **AI Accelerator**, and **Hardware Optimization for Edge AI**.
+Focus on **RTL Design & Verification**, **RISC-V Architecture**, **AI Accelerator**, and **Hardware Optimization for Edge AI**.
 
 ---
 
@@ -26,11 +26,10 @@ Focus on **RTL Design & Verification**, **RISC-V Architectures**, **AI Accelerat
 
 * **RISC CPU 16-bit** — Designed a 16-bit RISC CPU in Verilog HDL, with 4-bit opcodes and 12-bit operand addresses. Synthesized and implemented on FPGA with optimized resource (168 LUTs, 101 FFs) and timing (0.095 ns WNS).
 * **Systolic Array 2x2 for Matrix Multiplication** — Implemented a robust and scalable Matrix Multiplier using Systolic Architecture.
-* **Obstacle Obstacle Detection and Distance Measurement Using Ultrasonic Sensing and Timer Input Capture on STM32F103** — Built a real-time STM32 firmware to detect obstacles, measure distance, and warn vehicle drivers in multiple channels.
+* **Obstacle Obstacle Detection and Distance Measurement Using Ultrasonic Sensing and Timer Input Capture on STM32F103** — Built a real-time STM32 firmware to detect obstacles, measure distance, and warn vehicle drivers through multiple channels.
 
 ---
 
 ### 📫 My Contacts
 
 * **Email:** [nam.huynhnhatnam@hcmut.edu.vn](mailto:nam.huynhnhatnam@hcmut.edu.vn)
-* **Location:** Ho Chi Minh City, Vietnam
