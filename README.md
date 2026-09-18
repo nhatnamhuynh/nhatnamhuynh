@@ -18,8 +18,8 @@ Focus on **RTL Design & Verification**, **RISC-V Architecture**, **AI Accelerato
 
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=nhatnamhuynh&repo=pmhuy2302%2Frisc-cpu-16-bit&theme=vue-dark)](https://github.com/pmhuy2302/risc-cpu-16-bit)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=nhatnamhuynh&repo=nhatnamhuynh%2Fsystolic-array-2x2&theme=tokyonight)](https://github.com/nhatnamhuynh/systolic-array-2x2)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=nhatnamhuynh&repo=pmhuy2302%2Frisc-cpu-16-bit&theme=vue-dark)](https://github.com/pmhuy2302/risc-cpu-16-bit)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=nhatnamhuynh&repo=nhatnamhuynh%2Fobstacle-detection-and-distance-measurement&theme=prussian)](https://github.com/nhatnamhuynh/obstacle-detection-and-distance-measurement)
 
 </div>
