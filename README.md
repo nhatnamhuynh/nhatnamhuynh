@@ -6,7 +6,7 @@ Focus on **RTL Design & Verification**, **RISC-V Architecture**, **AI Accelerato
 
 ---
 
-### 🎯 What I Build
+### 🎯 My Skills
 
 * **RTL Design & Verification:** Verilog HDL, FSM Design, FPGA Synthesis (Xilinx Vivado, Arty Z7-20), Testbench Development & Waveform Inspection.
 * **Embedded Systems Optimization:** Embedded C (HAL, I2C, UART), STM32 Microcontrollers, Raspberry Pi, Python, OpenCV.
