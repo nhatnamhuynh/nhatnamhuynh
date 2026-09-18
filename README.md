@@ -1,15 +1,15 @@
-# Hi there 👋, I'm Huynh Nhat Nam
+# Huynh Nhat Nam
 
-Computer Engineering Undergraduate @ HCMUT ('29) | GPA: 3.7/4.0
-Focusing on **Digital IC Design**, **RISC-V Architectures**, and **Hardware Optimization for Edge AI**.
+Computer Engineering Undergraduate @ HCMUT ('29)
+Driven by **Digital IC Design**, **RISC-V Architectures**, and **Hardware Acceleration for Edge AI**.
 
 ---
 
-### 🔬 Technical Arsenal
+### 🎯 What I Build & Do
 
-* **RTL & HW Design:** Verilog HDL, FSM Design, FPGA Synthesis (Vivado, Arty Z7-20), Testbench Development, Waveform Inspection
-* **Embedded Systems:** Embedded C, STM32 (HAL, I2C, UART), Raspberry Pi, Linux, Python, OpenCV
-* **Core Tooling:** Git, Markdown, CMake, LaTeX
+* **RTL & Digital Design:** Verilog HDL, FSM Design, FPGA Synthesis (Vivado, Arty Z7-20), Testbench Development & Waveform Inspection
+* **Embedded Systems:** Embedded C (HAL, I2C, UART), STM32 Microcontrollers, Raspberry Pi, Python, OpenCV
+* **Tooling & Workflows:** Git, Markdown, CMake, LaTeX
 
 ---
 
@@ -23,21 +23,13 @@ Focusing on **Digital IC Design**, **RISC-V Architectures**, and **Hardware Opti
 
 </div>
 
-* **16-bit RISC CPU Core** — Designed & synthesized a multi-component CPU core in Verilog HDL on Arty Z7-20 FPGA[cite: 1]. Optimized resource usage (168 LUTs, 101 FFs) with timing closure (0.095 ns WNS)[cite: 1].
-* **Automotive Obstacle Detection & Warning System** — Led firmware development on STM32F103C8T6, writing non-blocking I2C/UART routines and moving average signal filters (<5% average distance error)[cite: 1].
-* **Visually Impaired Assistance Device** — Developed a real-time computer vision system using Raspberry Pi, Pi Camera, Haar Cascade, and low-latency Text-to-Speech audio output[cite: 1].
-
----
-
-### 🏆 Recognitions & Highlights
-
-* **Top 20% Cohort & Top 2 Final Project** — Embedded C Summer Course (HCMUT MLIOT Lab, 2026)[cite: 1]
-* **Merit-based Scholarship** — Office for International Study Programs (Ranked No.1, 2025)[cite: 1]
-* **Second Prize** — Technical Research Fair (HCMC Department of Education and Training, 2024)[cite: 1]
+* **16-bit RISC CPU Core** — Designed and synthesized a multi-component CPU core in Verilog HDL for FPGA with timing closure and resource optimization.
+* **Systolic Array 2x2** — Implemented a basic matrix multiplication accelerator unit for machine learning workload acceleration.
+* **Automotive Obstacle Warning System** — Built real-time STM32 firmware utilizing non-blocking peripheral communication and signal filtering for high-precision distance detection.
 
 ---
 
 ### 📫 Let's Connect
 
-* **Email:** [nam.huynhnhatnam@hcmut.edu.vn](mailto:nam.huynhnhatnam@hcmut.edu.vn)[cite: 1]
-* **Location:** Ho Chi Minh City, Vietnam[cite: 1]
+* **Email:** [nam.huynhnhatnam@hcmut.edu.vn](mailto:nam.huynhnhatnam@hcmut.edu.vn)
+* **Location:** Ho Chi Minh City, Vietnam
