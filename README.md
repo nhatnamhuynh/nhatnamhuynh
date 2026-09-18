@@ -8,9 +8,9 @@ Focus on **RTL Design & Verification**, **RISC-V Architectures**, **AI Accelerat
 
 ### 🎯 What I Build
 
-* **RTL Design & Verification:** Verilog HDL, FSM Design, FPGA Synthesis (Xilinx Vivado, Arty Z7-20), Testbench Development & Waveform Inspection
-* **Embedded Systems Optimization:** Embedded C (HAL, I2C, UART), STM32 Microcontrollers, Raspberry Pi, Python, OpenCV
-* **Tools:** Git, Markdown, CMake, LaTeX
+* **RTL Design & Verification:** Verilog HDL, FSM Design, FPGA Synthesis (Xilinx Vivado, Arty Z7-20), Testbench Development & Waveform Inspection.
+* **Embedded Systems Optimization:** Embedded C (HAL, I2C, UART), STM32 Microcontrollers, Raspberry Pi, Python, OpenCV.
+* **Tools:** Git, Markdown, CMake, LaTeX.
 
 ---
 
