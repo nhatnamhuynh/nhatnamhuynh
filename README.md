@@ -2,19 +2,19 @@
 
 Computer Engineering Undergraduate @ HCMUT (Class of 2029)
 
-Driven by **Digital IC Design**, **RISC-V Architectures**, **AI Accelerator**, and **Hardware Optimization for Edge AI**.
+Focus on **RTL Design & Verification**, **RISC-V Architectures**, **AI Accelerator**, and **Hardware Optimization for Edge AI**.
 
 ---
 
-### 🎯 What I Build & Do
+### 🎯 What I Build
 
-* **RTL Design:** Verilog HDL, FSM Design, FPGA Synthesis (Vivado, Arty Z7-20), Testbench Development & Waveform Inspection
-* **Embedded Systems:** Embedded C (HAL, I2C, UART), STM32 Microcontrollers, Raspberry Pi, Python, OpenCV
+* **RTL Design & Verification:** Verilog HDL, FSM Design, FPGA Synthesis (Xilinx Vivado, Arty Z7-20), Testbench Development & Waveform Inspection
+* **Embedded Systems Optimization:** Embedded C (HAL, I2C, UART), STM32 Microcontrollers, Raspberry Pi, Python, OpenCV
 * **Tools:** Git, Markdown, CMake, LaTeX
 
 ---
 
-### 📌 Featured Projects
+### 📌 My Projects
 
 <div align="center">
 
@@ -24,13 +24,13 @@ Driven by **Digital IC Design**, **RISC-V Architectures**, **AI Accelerator**, a
 
 </div>
 
-* **16-bit RISC CPU Core** — Designed and synthesized a multi-component CPU core in Verilog HDL for FPGA with timing closure and resource optimization.
-* **Systolic Array 2x2** — Implemented a basic matrix multiplication accelerator unit for machine learning workload acceleration.
-* **Automotive Obstacle Warning System** — Built real-time STM32 firmware utilizing non-blocking peripheral communication and signal filtering for high-precision distance detection.
+* **RISC CPU 16-bit** — Designed a 16-bit RISC CPU in Verilog HDL, with 4-bit opcodes and 12-bit operand addresses. Synthesized and implemented on FPGA with optimized resource (168 LUTs, 101 FFs) and timing (0.095 ns WNS).
+* **Systolic Array 2x2 for Matrix Multiplication** — Implemented a robust and scalable Matrix Multiplier using Systolic Architecture.
+* **Obstacle Obstacle Detection and Distance Measurement Using Ultrasonic Sensing and Timer Input Capture on STM32F103** — Built a real-time STM32 firmware to detect obstacles, measure distance, and warn vehicle drivers in multiple channels.
 
 ---
 
-### 📫 Let's Connect
+### 📫 My Contacts
 
 * **Email:** [nam.huynhnhatnam@hcmut.edu.vn](mailto:nam.huynhnhatnam@hcmut.edu.vn)
 * **Location:** Ho Chi Minh City, Vietnam
