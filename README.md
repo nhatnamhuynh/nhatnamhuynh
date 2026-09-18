@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a first-year undergraduate student at Vietnam National University - Ho Chi Minh City University of Technology, majoring in Computer Engineering.
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=nhatnamhuynh)](https://github.com/stats-organization/github-stats-extended)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=nhatnamhuynh&repo=nhatnamhuynh%2Fobstacle-detection-and-distance-measurement&description_lines_count=3&theme=prussian)](https://github.com/nhatnamhuynh/obstacle-detection-and-distance-measurement)
